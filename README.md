@@ -56,7 +56,7 @@
 
 #### The following visualizations present a detailed breakdown of supplier compliance scores across each technical and regulatory specification. This allows for an easy comparison of how well each supplier meets the individual tender criteria, highlighting strengths and weaknesses per specification. These insights support informed decision-making by illustrating the specific areas where suppliers excel or fall short.
 
-![Compliance Score](/compliant_score.png.png)
+![Compliance Score](/compliant_score.png)
 
 
 ## Data Source
