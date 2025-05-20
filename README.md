@@ -35,7 +35,7 @@
 
 
 ## Dataset / Inputs
-    - Supplier datasheets and certificates provided in PDF and Excel formats.
+    - Supplier datasheets provided in Excel formats.
     - Public sector tender documents outlining technical and regulatory requirements.
     - All data normalized and entered into a structured Excel comparison matrix.
 
